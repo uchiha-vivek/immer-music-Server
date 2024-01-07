@@ -14,3 +14,7 @@ to hit the respective api end point.
 
 ## The Database used is MongoDb
 ## All the API's have been successfullt tested in Postman and Thunderclient
+
+## joi library is used for validation of database schema
+
+//** Further checks and validation to be implemeted in various inputs field **//
